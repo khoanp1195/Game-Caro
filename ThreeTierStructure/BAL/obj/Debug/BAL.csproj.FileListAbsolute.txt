@@ -1,0 +1,38 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BAL\obj\Debug\BAL.pdb
+F:\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+F:\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+F:\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+F:\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+F:\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+F:\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+F:\ThreeTierStructure\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+F:\ThreeTierStructure\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+F:\ThreeTierStructure\BAL\obj\Debug\BAL.csproj.CopyComplete
+F:\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+F:\ThreeTierStructure\BAL\obj\Debug\BAL.pdb

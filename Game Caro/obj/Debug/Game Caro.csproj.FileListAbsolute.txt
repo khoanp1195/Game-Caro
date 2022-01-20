@@ -1,0 +1,153 @@
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.Form1.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.home.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game Caro.exe.licenses
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\TelerikCommon.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.xml
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CopyComplete
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.SignIn.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.SignUp.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\BAL.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\BEL.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\DAL.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\BAL.pdb
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\BEL.pdb
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\DAL.pdb
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.Game.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Lab2.exe
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Lab2.pdb
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Lab2.exe.config
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Caro.exe
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Caro.pdb
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Caro.exe.config
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.Huongdan.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.MainCaro.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Office2019.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.caro.resources
+C:\Users\admin\source\repos\Game Caro\Game Caro\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\source\repos\Game Caro\Game Caro\obj\Debug\Game_Caro.DangKy.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Game Caro.exe.config
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Game Caro.exe
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Game Caro.pdb
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\BAL.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\BEL.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\DAL.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\FontAwesome.Sharp.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.GridView.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Material.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Office2019.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.UI.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\TelerikCommon.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\BAL.pdb
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\BEL.pdb
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\DAL.pdb
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.GridView.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.UI.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.DangKy.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.Game.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.Huongdan.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.MainCaro.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.SignIn.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.exe.licenses
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CopyComplete
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.exe
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.pdb
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\MaterialSkin.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.PdfViewer.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.Windows.Documents.Core.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.Windows.Zip.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.PdfViewer.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.Windows.Documents.Core.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.Windows.Zip.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.SplashScreen.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.Dashboard.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.GameItems.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.Dashboard1.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Interop.WMPLib.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\AxInterop.WMPLib.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Interop.WMPLib.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\AxInterop.WMPLib.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.ResolveComReference.cache
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.home.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.Sanh.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\FireSharp.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Newtonsoft.Json.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\System.Net.Http.Extensions.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\System.Net.Http.Primitives.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Newtonsoft.Json.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\System.Net.Http.Extensions.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\System.Net.Http.Primitives.xml
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.App.config
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.PlayervsPlayer.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.PlayervsPc.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.FormMail.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\ProjectKTPM.exe
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\ProjectKTPM.pdb
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\ProjectKTPM.exe.config
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\ProjectKTPM.Form1.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\obj\Debug\Game_Caro.home1.resources
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\Game Caro\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
